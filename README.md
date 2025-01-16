@@ -24,4 +24,4 @@
 ---
 
 ### 📫 How to Reach Me:
-- 📧 Email: [your_email@gmail.com](mailto:mateuszgajdowicz04@gmail.com)
+- 📧 Email: [mateuszgajdowicz04@gmail.com](mailto:mateuszgajdowicz04@gmail.com)
