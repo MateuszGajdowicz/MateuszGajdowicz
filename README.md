@@ -19,7 +19,7 @@
 
 ### 📈 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateuszGajdowicz&show_icons=true&hide_rank=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MateuszGajdowicz&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MateuszGajdowicz&layout=compact&hide=jupyter%20notebook&theme=radical)
 
 ---
 
