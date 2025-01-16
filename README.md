@@ -1,5 +1,4 @@
-# Cześć! 👋  
-Jestem [Twoje Imię]. 🚀  
+#Hi I'm Mateusz. 🚀  
 
 ## 🛠 Technologie:
 - Python 🐍
