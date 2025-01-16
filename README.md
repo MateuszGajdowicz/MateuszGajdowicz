@@ -17,15 +17,9 @@
 
 ---
 
-### 🚀 My Projects:
-- 🌐 [Portfolio Website](https://github.com/your_username/portfolio) – A personal portfolio to showcase my work.
-- 🤖 [ChatGPT Bot](https://github.com/your_username/chatgpt-bot) – A chatbot powered by OpenAI API.
-- 📊 [Data Analyzer](https://github.com/your_username/data-analyzer) – A tool for analyzing large datasets.
-
----
-
 ### 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateuszGajdowicz&show)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateuszGajdowicz&show_icons=true&hide_rank=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MateuszGajdowicz&layout=compact&theme=radical)
 
 ---
